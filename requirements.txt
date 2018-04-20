@@ -1,0 +1,15 @@
+numpy
+pandas
+spotipy
+string
+seaborn
+matplotlib
+IPython
+datetime
+wordcloud
+scipy
+bokeh
+sklearn
+pydotplus
+lightgbm
+eli5
