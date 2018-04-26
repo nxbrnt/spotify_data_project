@@ -3,6 +3,7 @@
 client_id = ''
 secret = ''
 redirect_uri = ''
+username = ''
 
 try:
     from secret_keys import *
