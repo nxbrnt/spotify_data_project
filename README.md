@@ -22,27 +22,27 @@ This project is written mostly in a tutorial format, and is broken into five Jup
 
 **Click on the titles or images to load the corresponding notebook. You can also easily navigate between the notebooks from *within* any notebook:**
 
-# **[1. Data Scraping and Wrangling](spotify_1_scraping.ipynb)**
-[![Gallery](figures/scraping_gallery.png)](spotify_1_scraping.ipynb)
+# **[1. Data Scraping and Wrangling](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_1_scraping.ipynb)**
+[![Gallery](figures/scraping_gallery.png)](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_1_scraping.ipynb)
 
 ---
 
-# **[2. Basic Feature Exploration](spotify_2_basic_exploration.ipynb)**
-[![Gallery](figures/basic_exploration_gallery.png)](spotify_2_basic_exploration.ipynb)
+# **[2. Basic Feature Exploration](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_2_basic_exploration.ipynb)**
+[![Gallery](figures/basic_exploration_gallery.png)](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_2_basic_exploration.ipynb)
 
 ---
 
-# **[3. Audio Feature Exploration](spotify_3_audio_features.ipynb)**
-[![Gallery](figures/audio_features_gallery.png)](spotify_3_audio_features.ipynb)
+# **[3. Audio Feature Exploration](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_3_audio_features.ipynb)**
+[![Gallery](figures/audio_features_gallery.png)](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_3_audio_features.ipynb)
 
 ---
 
-# **[4. Social Feature Exploration and Regression](spotify_4_popularity_and_followers.ipynb)**
-[![Gallery](figures/social_features_gallery.png)](spotify_4_popularity_and_followers.ipynb)
+# **[4. Social Feature Exploration and Regression](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_4_popularity_and_followers.ipynb)**
+[![Gallery](figures/social_features_gallery.png)](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_4_popularity_and_followers.ipynb)
 
 ---
 
-# **[5. Building a Classifier and Track Recommender ](spotify_5_classifier_and_recommender.ipynb)**
-[![Gallery](figures/classifier_and_recommender_gallery.png)](spotify_5_classifier_and_recommender.ipynb)
+# **[5. Building a Classifier and Track Recommender ](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_5_classifier_and_recommender.ipynb)**
+[![Gallery](figures/classifier_and_recommender_gallery.png)](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_5_classifier_and_recommender.ipynb)
 
 ---
