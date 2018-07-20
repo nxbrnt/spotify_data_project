@@ -2,7 +2,7 @@
 
 *Nix Barnett*
 
-![Gallery](figures/index_gallery.png)
+[![Gallery](figures/index_gallery.png)](http://nbviewer.jupyter.org/github/nxbrnt/spotify_data_project/blob/master/spotify_1_scraping.ipynb)
 
 This project is an in-depth analysis of music from the music streaming service [Spotify](https://www.spotify.com/). In it, I scrape a large number of tracks from [my personal Spotify music library](https://open.spotify.com/user/nxbrnt/playlist/1ypVHzjgXq07PwQR7SBcGU?si=d56V5YZ-Q1y4FhiWzXN0gg) (~6000 tracks) as well as the [Billboard Year-End Hot 100](https://en.wikipedia.org/wiki/Billboard_Hot_100) from every year since 1960 (~6000 tracks) using [Spotify's Web API](https://developer.spotify.com/web-api/). After merging and wrangling this data into a usable dataframe, I thoroughly explore and visualize the tracks' features using extensively customized plotting functions. While my primary goal is to find predictive signals in the features that distinguish between the two datasets, I discover many interesting patterns along the way.
 
